@@ -1,0 +1,15 @@
+.c-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 16px;
+  color: black;
+}
+
+.chatbox {
+  border: 1px solid black;
+  border-radius: 8px;
+  max-width: 600px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  margin-bottom: 24px;
+}
